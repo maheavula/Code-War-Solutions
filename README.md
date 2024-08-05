@@ -3,10 +3,16 @@
 This repository contains my solutions to Python coding challenges on Codewars. I aim to solve at least one challenge daily and commit my solutions here.
 
 ## Directory Structure
+## The level of problems categorized based on Kyu(Level) 8(Lowest) to 1(Highest) rank. 
 
-- `easy/` - Contains solutions to easy challenges
-- `medium/` - Contains solutions to medium challenges
-- `hard/` - Contains solutions to hard challenges
+- `8 Kyu/` 
+- `7 Kyu/` 
+- `6 Kyu/` 
+- `5 Kyu/` 
+- `4 Kyu/` 
+- `3 Kyu/` 
+- `2 Kyu/` 
+- `1 Kyu/` 
 
 ## How to Use
 
